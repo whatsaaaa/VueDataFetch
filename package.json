@@ -1,7 +1,7 @@
 {
-  "name": "vue-data-fetch",
+  "name": "@whatsaaaaa/vue-data-fetch",
   "version": "0.1.0",
-  "description": "",
+  "description": "Vue module that is used to fetch data from any backend",
   "main": "/dist/index.js",
   "types": "/dist/index.d.ts",
   "scripts": {
