@@ -26,7 +26,7 @@ setup() {
 }
 ```
 
-When the request sent initial values for `response` variable are:
+When the request is sent, initial values for `response` variable are:
 
 ```json
 {
