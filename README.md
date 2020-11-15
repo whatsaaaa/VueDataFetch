@@ -63,7 +63,7 @@ If the request failed, values for `response` variable are:
   "error": {
     "status": 404,
     "statusText": "Not Found",
-    "response": "Requested resource not found" // Response body
+    "response": "Requested resource not found"
   }
 }
 ```
