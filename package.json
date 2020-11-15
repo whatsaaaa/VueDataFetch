@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/whatsaaaa/VueDataFetch/issues"
   },
-  "homepage": "https://github.com/whatsaaaa/VueDataFetch#readme"
+  "homepage": "https://github.com/whatsaaaa/VueDataFetch#readme",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
 }
