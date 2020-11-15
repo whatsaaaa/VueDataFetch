@@ -2,13 +2,14 @@
   "name": "vue-data-fetch",
   "version": "0.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "/dist/index.js",
+  "types": "/dist/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/whatsaaaa/VueDataFetch.git"
+    "url": "https://github.com/whatsaaaa/VueDataFetch"
   },
   "author": "@whatsaaaa",
   "license": "ISC",
@@ -18,5 +19,9 @@
   "homepage": "https://github.com/whatsaaaa/VueDataFetch#readme",
   "devDependencies": {
     "typescript": "^4.0.5"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "vue": "^3.0.2"
   }
 }
