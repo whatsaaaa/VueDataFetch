@@ -91,7 +91,7 @@ If you are using TypeScript in your Vue project you can set vueFetch< T > type.
 
 - `response`:
 
-```json
+```
 {
   loading: boolean;
   error: Error | null;
@@ -101,7 +101,7 @@ If you are using TypeScript in your Vue project you can set vueFetch< T > type.
 
 - `Error`:
 
-```json
+```
  {
   status: number;
   statusText: string;
