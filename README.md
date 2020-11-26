@@ -85,7 +85,7 @@ const response = vueFetch<Posts[]>(url);
 console.log(response);
 ```
 
-If you are using TypeScript in your Vue project you can set vueFetch<T> type.
+If you are using TypeScript in your Vue project you can set vueFetch< T > type.
 
 ### Objects
 
